@@ -23,6 +23,7 @@ Báo cáo đề tài Website bán điện thoại
     + Chức năng ở trang thanh toán: user có thể hủy đơn hàng nếu không muốn đặt nửa.
     
  * Phạm Đình Thơ ( Trang admin-Trang quản lý )
+    + Đăng nhập Admin
     + Xây dựng layout dùng chung cho trang admin (sử dụng bootstrap)
     
     + Đã thiết kế xong trang quản lý sản phẩm, quản lý người dùng, quản lý danh mục và quản lý đơn hàng.
@@ -42,4 +43,5 @@ Báo cáo đề tài Website bán điện thoại
                         
 2. Công việc cần làm : 
     + Chỉnh sửa  giao diện, css .
+    + Trang Admin (Thêm quản lý về thống kê báo cáo (Báo cáo về doanh thu, số lượng đơn đặt hàng, thống kê sản phẩm có lượng đặt cao, ... , in Thông tin chi tiết đơn (xuất file) cho đơn hàng ).
     
