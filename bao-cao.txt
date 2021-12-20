@@ -41,4 +41,5 @@ Báo cáo đề tài Website bán điện thoại
                                          - Các chức năng : duyệt đơn , Xem chi tiết đơn hàng (trang chỉ tiết đơn hàng gồm : tên sp, sô lượng, ngày đặt , đơn giá, tổng giá) 
                         
 2. Công việc cần làm : 
-    + Chỉnh sửa lại giao diện, css .
+    + Chỉnh sửa  giao diện, css .
+    
