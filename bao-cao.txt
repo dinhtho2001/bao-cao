@@ -1,3 +1,44 @@
-Báo cáo tiến độ Website bán điện thoại (Trí An + Đình Thơ)
+Báo cáo đề tài Website bán điện thoại 
 
-Ghi vào đây +
+* Thành viên nhóm: Nguyễn Trí An & Phạm Đình Thơ.
+
+1. Công việc đã hoàn thành:
+  + Đã xong database 
+  + Kết nối CSDL bằng entity Framework Database First.
+  
+  * Nguyễn Trí An (Trang người dùng : Giao diện và chức năng) 
+    + Đăng nhập , đăng ký.
+    
+    + Xây dựng layout dùng chung cho trang giao diện người dùng (sử dụng bootstrap)
+    
+    + Đã thiết kế xong trang hiển thị sản phẩm , trang chi tiết sản phẩm (hình ảnh, đơn giá, thông tin về sản phẩm), trang giỏ hàng (tên hàng, số lượng, đơn giá, tổng giá), 
+      thanh toán đơn hàng (hiển thị đơn hàng đã được thanh tóa) (sử dụng bootstrap)
+      
+    + Các chức năng tìm kiếm theo tên sản phẩm, tìm kiếm theo thể loại, cập nhập thông tin user.
+    
+    + Chức năng ở trang chi tiết sp : Thêm sản phẩm vào giỏ hàng, Khi thêm thành công số lượng hàng trong giỏ hàng sẽ tăng lên 1
+    
+    + Chức năng ở trang giỏ hàng: Quản lý giỏ hàng bằng Session , có các button xóa sản phẩm khỏi giỏ , update lại số lượng sản phẩm nếu cần , thanh toán tất cả sản phẩm trong         giỏ  hàng( sau khi thanh toán số lượng sản phẩm trong giỏ hàng sẽ về 0 ).
+    
+    + Chức năng ở trang thanh toán: user có thể hủy đơn hàng nếu không muốn đặt nửa.
+    
+ * Phạm Đình Thơ ( Trang admin-Trang quản lý )
+    + Xây dựng layout dùng chung cho trang admin (sử dụng bootstrap)
+    
+    + Đã thiết kế xong trang quản lý sản phẩm, quản lý người dùng, quản lý danh mục và quản lý đơn hàng.
+    
+    + Chức năng trang quản lý sản phẩm:
+                                         - hiển thị hình ảnh, tên sản phẩm, đơn giá , miêu tả, thể loại
+                                         - Các chức năng thêm, sửa, xóa( nếu sản phẩm đang có đơn đặt hàng sẽ ko đc xóa) sản phẩm và tìm kiếm sản phẩm theo tên.
+    + Chức năng trang quản lý người dùng: 
+                                         - Hiển thị thông tin tài khoản người dùng.
+                                         - Các chức năng thêm , sửa , xóa( nếu người dùng đang có đơn đặt sẽ kh xóa đc) tài khoản .
+    + Chức năng trang quản lý danh mục:
+                                         - Hiển thị thông tin thể loại sản phẩm
+                                         - Các chức năng thêm , sửa , xóa ( Nếu thể loại có sản phẩm đang kinh doanh thì k thể xóa) thể loại.
+    + Chức năng trang quản lý đơn hàng :
+                                         - Hiển thị thông tin đơn hàng gồm địa chỉ email, sđt , địa chỉ user, tên đơn hàng, thành tiền
+                                         - Các chức năng : duyệt đơn , Xem chi tiết đơn hàng (trang chỉ tiết đơn hàng gồm : tên sp, sô lượng, ngày đặt , đơn giá, tổng giá) 
+                        
+2. Công việc cần làm : 
+    + Chỉnh sửa lại giao diện, css .
