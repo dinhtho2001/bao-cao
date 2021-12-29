@@ -48,5 +48,8 @@ Báo cáo đề tài Website bán điện thoại
    // 23/12/2021
    Phạm Đình Thơ ( Trang admin-Trang quản lý )
    + Hoàn thành xuất file Excel ở trang quản lý Đơn hàng ( Xuất thông tin đơn hàng để phục vụ cho việc in).
-   
+   // 29/12/2021
+   Phạm Đình Thơ (Trang Admin - Thông kê báo cáo)
+   + Hoàn thành xong thống kê báo cáo doanh thu của cửa hàng theo từng tháng (thể hiện biểu đồ dạng đường)
+   + Hoàn thành xong thống kê Top 5 sản phẩm bán chạy ( thể hiện biểu đồ dạng cột).
     
