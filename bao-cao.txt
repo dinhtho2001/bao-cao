@@ -44,7 +44,7 @@ Báo cáo đề tài Website bán điện thoại
 2. Công việc cần làm : 
     + Chỉnh sửa  giao diện, css .
     + Trang Admin (Thêm quản lý về thống kê báo cáo (Báo cáo về doanh thu, số lượng đơn đặt hàng, thống kê sản phẩm có lượng đặt cao, ... , in Thông tin chi tiết đơn (xuất file) cho đơn hàng ).
-    
+  
    // 23/12/2021
    Phạm Đình Thơ ( Trang admin-Trang quản lý )
    + Hoàn thành xuất file Excel ở trang quản lý Đơn hàng ( Xuất thông tin đơn hàng để phục vụ cho việc in).
@@ -53,3 +53,6 @@ Báo cáo đề tài Website bán điện thoại
    + Hoàn thành xong thống kê báo cáo doanh thu của cửa hàng theo từng tháng (thể hiện biểu đồ dạng đường)
    + Hoàn thành xong thống kê Top 5 sản phẩm bán chạy ( thể hiện biểu đồ dạng cột).
     
+    // Nguyễn Trí An:
+    + Hoàn thành phân trang cho sản phẩm 
+    + Hoàn thành chính sách hoàn trả, hủy đơn hàng.
